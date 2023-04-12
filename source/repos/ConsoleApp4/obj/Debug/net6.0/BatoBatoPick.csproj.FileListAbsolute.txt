@@ -1,0 +1,5 @@
+C:\Users\centl\source\repos\ConsoleApp4\obj\Debug\net6.0\BatoBatoPick.csproj.AssemblyReference.cache
+C:\Users\centl\source\repos\ConsoleApp4\obj\Debug\net6.0\BatoBatoPick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\centl\source\repos\ConsoleApp4\obj\Debug\net6.0\BatoBatoPick.AssemblyInfoInputs.cache
+C:\Users\centl\source\repos\ConsoleApp4\obj\Debug\net6.0\BatoBatoPick.AssemblyInfo.cs
+C:\Users\centl\source\repos\ConsoleApp4\obj\Debug\net6.0\BatoBatoPick.csproj.CoreCompileInputs.cache

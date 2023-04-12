@@ -1,0 +1,15 @@
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\Math Game.csproj.AssemblyReference.cache
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\Math Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\Math Game.AssemblyInfoInputs.cache
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\Math Game.AssemblyInfo.cs
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\Math Game.csproj.CoreCompileInputs.cache
+C:\Users\centl\source\repos\Math Game\bin\Debug\net6.0\Math Game.exe
+C:\Users\centl\source\repos\Math Game\bin\Debug\net6.0\Math Game.deps.json
+C:\Users\centl\source\repos\Math Game\bin\Debug\net6.0\Math Game.runtimeconfig.json
+C:\Users\centl\source\repos\Math Game\bin\Debug\net6.0\Math Game.dll
+C:\Users\centl\source\repos\Math Game\bin\Debug\net6.0\Math Game.pdb
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\Math Game.dll
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\refint\Math Game.dll
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\Math Game.pdb
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\Math Game.genruntimeconfig.cache
+C:\Users\centl\source\repos\Math Game\obj\Debug\net6.0\ref\Math Game.dll
